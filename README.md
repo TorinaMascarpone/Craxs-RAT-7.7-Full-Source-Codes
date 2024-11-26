@@ -1,5 +1,5 @@
 
-# CraxsRAT 7.7
+# Craxs RAT 7.7
 
 CraxsRAT includes a fully operational source code for version 7.7.
 
